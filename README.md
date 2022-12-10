@@ -17,12 +17,12 @@ It is reccomended to use Anaconda for Python installation.
 
 ## Running Jupyter notebook
 
-- Go to NormalDistribution.ipynb in repository 
+- Go to normal-distribution.ipynb in repository 
 - Clone the repository to local machine 
 - Open command line on the local machine or Cmder for Windows
 - Navigate to the apropiate directory containg the cloned repository
 - Type jupyter notebook to initiate the Jupyter web browser
-- Open the file NormalDistribution.ipynb
+- Open the file normal-distribution.ipynb
 
 ## License
 
