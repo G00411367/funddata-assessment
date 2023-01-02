@@ -5,7 +5,7 @@
 
 This repository contains jupyter notebooks together with other files for the module assessment Fundamentals of Data Analysis.
 
-The two main parts of the repository consists of :
+The repository consists of :
 1. Practicals
 
    This folder stores the weekly tasks in jupyter notebook format
