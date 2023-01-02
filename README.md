@@ -1,10 +1,20 @@
 # FUNDAMENTALS OF DATA ANALYSIS ASSESSMENT
 
-## Normal Distribution
+## Introduction
 
-The main part of this repository is the Normal Distribution probability.
 
-By using a jupyter notebook we will research this well known distribution, investigate main concepts and visualize with histograms and plots.
+This repository contains jupyter notebooks together with other files for the module assessment Fundamentals of Data Analysis.
+
+The two main parts of the repository consists of :
+1. Practicals
+
+   This folder stores the weekly tasks in jupyter notebook format
+
+2. normal-distribution.ipynb
+
+   This jupyter notebook is the project for the assessment module. 
+
+   It researches the Normal Distribution probability, investigates main concepts and visualizes with histograms and plots.
 
 
 ## System Requirement
@@ -17,13 +27,18 @@ It is reccomended to use Anaconda for Python installation.
 
 ## Running Jupyter notebook
 
-- Go to normal-distribution.ipynb in repository 
+- On GitHub.com navigate to main page of the repository 
 - Clone the repository to local machine 
 - Open command line on the local machine or Cmder for Windows
 - Navigate to the apropiate directory containg the cloned repository
-- Type jupyter notebook to initiate the Jupyter web browser
+- Type jupyter notebook and press enter to initiate the Jupyter web browser
 - Open the file normal-distribution.ipynb
+- Click on Kernel and select Restart Kernal and Run All Cells. This imports all libraries and start the notebook
 
-## License
 
-GNU licence
+<h3><b><u><p id='Viewer'>nbviewer:</b></u></p></h3>
+	
+Additionally, you can view the notebook by clicking on the following icon: 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/G00411367/funddata-assessment/blob/main/normal-distribution.ipynb)
+
+
